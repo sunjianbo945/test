@@ -16,7 +16,7 @@ using namespace std;
 
 int main() {
 
-	std::ofstream outfile;
+	std::ofstream outfile
 
 	outfile.open("test.txt", std::ios_base::app);
 
