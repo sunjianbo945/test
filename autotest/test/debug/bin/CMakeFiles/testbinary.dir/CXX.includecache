@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/jianbo/PycharmProjects/autotest/test/debug/bin/test.cpp
+/home/jianbo/PycharmProjects/test/autotest/test/debug/bin/test.cpp
 iostream
 -
 fstream

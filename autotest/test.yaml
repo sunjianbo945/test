@@ -1,0 +1,8 @@
+
+regression-test:
+    - test-section :
+        name: happy-sad
+        path : /home/jianbo/PycharmProjects/test/autotest/test/debug/bin/
+        tests:
+            - test-1, testbinary --flage=1, 1:file=happy.out, 2:binary=sad.out
+            - test-2, testbinary --flage=2, 1=happy.out, 2=sad.out
